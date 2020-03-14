@@ -2,7 +2,7 @@
 In this repository I am placing the codes I use to automate my daily tasks as an educator and a resident fellow in a university dormitory.
 
 
-#Workflow
+# Workflow
 In the midst of COVID-19 situation, it is mandatory for the students to declare their temperature two times a day.
 
 In order to deepen this behaviour, we have conditioned a welfare supper with past declaration two out of three. 
